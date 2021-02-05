@@ -1,3 +1,4 @@
-localhost
+:80
 
-respond "Hello World"
+root * /var/www
+file_server
